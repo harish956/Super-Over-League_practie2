@@ -1,0 +1,24 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+.head {
+  color: #f8fafc;
+}
+.image-card {
+  display: flex;
+  justify-content: center;
+  height: 45%;
+  width: 50%;
+}
+.img {
+  height: 100%;
+  width: 100%;
+}
